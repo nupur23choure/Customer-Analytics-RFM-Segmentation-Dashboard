@@ -4,22 +4,9 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Cleaning-blue) ![Python](https://img.shields.io/badge/Python-RFM%20Scoring-yellow) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-<p align="center">
-  <img src="images/<img width="1188" height="745" alt="Screenshot 2026-10-25 115228" src="https://github.com/user-attachments/assets/3cf3603f-fca2-4b83-8b3e-2bc0ee1c9156" />
-" alt="Business Overview Dashboard" width="100%">
-</p>
+<p align="center"> <img src="image/Overview.png" alt="Business Overview Dashboard" width="100%"> </p> <table> <tr> <td width="50%"><img src="image/RFM.png" alt="RFM Analysis Dashboard"><p align="center"><b>RFM Analysis</b></p></td> <td width="50%"><img src="image/home.png" alt="Home Page"><p align="center"><b>Home & Navigation</b></p></td> </tr> </table>
 
-<table>
-  <tr>
-    <td width="50%"><img src="images/<img width="1433" height="737" alt="Screenshot 2026-10-25 115153" src="https://github.com/user-attachments/assets/ee8615eb-b576-449a-954b-85b033cf720d" />
-" alt="RFM Analysis Dashboard"><p align="center"><b>RFM Analysis</b></p></td>
-    <td width="50%"><img src="images/<img width="1185" height="740" alt="Screenshot 2026-10-25 115212" src="https://github.com/user-attachments/assets/009671ec-4288-4085-a342-926e1c1e1c2a" />
-" alt="Home Page"><p align="center"><b>Home & Navigation</b></p></td>
-  </tr>
-</table>
-
-> **At a glance:** 5,881 customers · $17.4M revenue · Champions (22% of customers) drive 68% of revenue · 50.9% churned
-
+At a glance: 5,881 customers · $17.4M revenue · Champions (22% of customers) drive 68% of revenue · 50.9% churned
 ## Problem Statement
 
 A UK-based online gift and home-decor retailer had two years of transaction data but no structured, data-driven view of **which customers drive revenue** and **which customers are disengaging**. Retention and marketing efforts were reactive, and spend was applied uniformly instead of being prioritised toward the customers most likely to respond.
