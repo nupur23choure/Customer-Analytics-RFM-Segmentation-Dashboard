@@ -101,12 +101,6 @@ This analysis shows that the retailer's revenue depends on a small group of cust
 - **Sales are seasonal.** Q4, and November in particular, drives the most revenue, so retention and loyalty campaigns should be ready before the peak.
 - **The business is UK-dependent.** About 83% of revenue comes from the UK. Markets such as the Netherlands, Germany and France show strong engagement and could be grown with targeted campaigns.
 
-**What the business should do**
-1. Protect Champions with VIP rewards, early access and a referral programme.
-2. Launch a priority win-back campaign for At Risk customers before they lapse.
-3. Move Loyal customers towards Champions with cross-sell and loyalty incentives.
-4. Keep spend on Lost customers low and use cheap reactivation offers.
-5. Plan retention and loyalty campaigns ahead of Q4.
 
 **What I learned**
 Working end to end on this project, I practised cleaning large transactional data in SQL, building RFM scores and segments in Python, and turning the results into an interactive Power BI dashboard with business-ready recommendations.
