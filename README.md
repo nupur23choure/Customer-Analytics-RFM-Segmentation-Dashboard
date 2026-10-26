@@ -113,5 +113,4 @@ Working end to end on this project, I practised cleaning large transactional dat
 
 ## Authors
 
-**Nupur Choure** · [LinkedIn](https://www.linkedin.com/in/your-profile) · nupur.choure1@gmail.com
-**Mansi Goel** · [LinkedIn](https://www.linkedin.com/in/her-profile)
+**Nupur Choure** · [LinkedIn](https://www.linkedin.com/in/nupur-choure-923314390/) 
