@@ -84,11 +84,7 @@ A UK-based online gift and home-decor retailer had two years of transaction data
 
 ## Tools & Technologies
 
-SQL · Python (Pandas, NumPy) · Power BI (DAX) · Git & GitHub
-
-## Dataset
-
-[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) from the UCI Machine Learning Repository (donated by Daqing Chen): 1,067,371 transactions of a UK-based online retailer, December 2009 to December 2011.
+SQL · Python (Pandas) · Power BI (DAX) · Git & GitHub
 
 ## Conclusion
 
